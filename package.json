@@ -1,0 +1,19 @@
+{
+  "name": "navigation-scroll",
+  "version": "1.0.0",
+  "description": "navigation active item in center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherry-li-or/navigation-scroll.git"
+  },
+  "author": "sherry.li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherry-li-or/navigation-scroll/issues"
+  },
+  "homepage": "https://github.com/sherry-li-or/navigation-scroll#readme"
+}
