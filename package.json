@@ -1,6 +1,6 @@
 {
   "name": "navbar-scroll",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "navbar active item in center",
   "main": "index.js",
   "scripts": {
