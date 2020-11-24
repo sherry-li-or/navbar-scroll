@@ -6,6 +6,14 @@
 
 One that allows you to keep active when scrolling navbar.
 
+## Show
+
+### Unused
+![Usage](gif/before.gif)
+
+### Usage
+![Usage](gif/after.gif)
+
 ## Getting Started
 
 ### install
@@ -19,7 +27,7 @@ npm: `npm install navbar-scroll`
 #### javascript
 
 ```javascript
-const navbarScroll = require("navbar-scroll");
+const { navbarScroll } = require("navbar-scroll");
 
 navbarScroll({ activeItem, scrollContainer });
 ```
@@ -27,7 +35,7 @@ navbarScroll({ activeItem, scrollContainer });
 #### TypeScript
 
 ```typescript
-import navbarScroll from "navbar-scroll";
+import { navbarScroll } from "navbar-scroll";
 
 navbarScroll({ activeItem, scrollContainer });
 ```
